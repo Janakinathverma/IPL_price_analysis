@@ -1,6 +1,6 @@
----
 
 # 🏏 IPL Auction & Performance Analytics
+---
 
 **IPL Auction & Performance Analytics** is a data-driven project that explores the relationship between **team spending in IPL auctions** and **actual player performance on the field**.
 
