@@ -1,0 +1,7 @@
+# Kaggle datasets / raw data
+data/
+
+# zipped datasets
+*.zip
+*.tar
+*.gz
